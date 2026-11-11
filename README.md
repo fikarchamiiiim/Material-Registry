@@ -228,6 +228,4 @@ docker compose run --rm odoo odoo -d test_db -i material_registry \
 
 ![ERD Material Registry](docs/erd.png)
 
-Sumber: [`docs/ERD.md`](docs/ERD.md) (Mermaid + DBML).
-
 Relasi: satu supplier memiliki banyak material (1:N); satu material dimiliki tepat satu supplier.
