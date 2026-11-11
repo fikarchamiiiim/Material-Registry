@@ -1,4 +1,4 @@
-# Material Registry — Odoo 14 Backend Test
+# Material Registry
 
 ## Setup
 
