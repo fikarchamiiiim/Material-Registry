@@ -89,8 +89,8 @@
     <menuitem id="material_menu_materials" name="Materials"
               parent="material_menu_root"
               action="material_material_action" sequence="10"/>
-    <!-- <menuitem id="material_menu_suppliers" name="Suppliers"
+    <menuitem id="material_menu_suppliers" name="Suppliers"
               parent="material_menu_root"
-              action="material_supplier_action" sequence="20"/> -->
+              action="material_supplier_action" sequence="20"/>
 
 </odoo>
